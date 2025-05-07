@@ -32,4 +32,18 @@ body {
     display: flex;
     gap: 20px;
   }
+<<<<<<< HEAD
+=======
+  ktp-photo img {
+    width: 100px;
+    height: 120px;
+    border: 1px solid #ccc;
+    object-fit: cover;
+  }
+  .ktp-info {
+    flex: 1;
+    font-size: 14px;
+    color: #333;
+  }
+>>>>>>> style
   
