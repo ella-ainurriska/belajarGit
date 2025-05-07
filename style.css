@@ -28,4 +28,8 @@ body {
     font-size: 18px;
     font-weight: normal;
   }
+  .ktp-body {
+    display: flex;
+    gap: 20px;
+  }
   
