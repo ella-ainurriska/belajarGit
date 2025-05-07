@@ -23,4 +23,9 @@ body {
     margin: 0;
     font-size: 20px;
   }
+  .ktp-header h3 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: normal;
+  }
   
