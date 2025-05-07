@@ -32,4 +32,10 @@ body {
     display: flex;
     gap: 20px;
   }
+  ktp-photo img {
+    width: 100px;
+    height: 120px;
+    border: 1px solid #ccc;
+    object-fit: cover;
+  }
   
