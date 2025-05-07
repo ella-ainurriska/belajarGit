@@ -38,4 +38,9 @@ body {
     border: 1px solid #ccc;
     object-fit: cover;
   }
+  .ktp-info {
+    flex: 1;
+    font-size: 14px;
+    color: #333;
+  }
   
